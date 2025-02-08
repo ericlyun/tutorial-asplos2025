@@ -1,5 +1,5 @@
 
-AHS: An EDA toolbox for Agile Chip Front-end Design
+Agile Hardware Specialization (AHS): A toolbox for Agile Chip Front-end Design
 =======================================================
 
 
