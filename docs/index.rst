@@ -22,7 +22,7 @@ Overview
 
 Compared to software design, hardware design is more expensive and time-consuming. This is partly because software community has developed a rich set of modern tools to help software programmers to get projects started and iterated easily and quickly. However, the tools are seriously antiquated and lacking for hardware design. Modern digital chips are still designed manually using hardware description language such as Verilog or VHDL, which requires low-level and tedious programming, debugging, and tuning. In this tutorial, we will introduce Agile Hardware Specialization (AHS) : A toolbox for Agile Chip Front-end Design. 
 
-.. figure:: images/system.png
+.. figure:: images/tutorial-overview.png
     :align: center
     :width: 450pt
 
@@ -47,7 +47,7 @@ The tutorial will be held at March 30, 2025 (9:00-12:30).
     - Slide
   * - 9:00am
     - session
-    - 
+    - Yun Liang
     - 
   * - 10:30am
     - coffee
@@ -55,7 +55,7 @@ The tutorial will be held at March 30, 2025 (9:00-12:30).
     -
   * - 11:00am 
     - session
-    -
+    - Xiaochen Hao, Youwei Xiao
     - 
   * - 12:30pm
     - lunch
@@ -85,9 +85,6 @@ Repos and Publications
    * - Cement
      - `pku-liang/Cement <https://github.com/pku-liang/Cement/tree/cmt2>`_
      - `FPGA'24 Paper <https://dl.acm.org/doi/10.1145/3626202.3637561>`_, `Crates.io Package <https://crates.io/crates/cmtrs>`_, `Documentation <https://docs.rs/cmtrs/latest/cmtrs/>`_
-   * - OriGen
-     - `pku-liang/OriGen <https://github.com/pku-liang/OriGen>`_
-     - `ICCAD'24 Paper <https://arxiv.org/abs/2407.16237>`_, `Hugging Face <https://huggingface.co/henryen/OriGen>`_
    * - Khronos (ksim)
      - `pku-liang/ksim <https://github.com/pku-liang/ksim/tree/aspdac24-tutorial>`_
      - `MICRO'23 Paper <https://dl.acm.org/doi/10.1145/3613424.3614301>`_
