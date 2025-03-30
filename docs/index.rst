@@ -3,18 +3,12 @@ Agile Hardware Specialization (AHS): A toolbox for Agile Chip Front-end Design
 =======================================================
 
 
-.. .. note::
-..     **Important Updates!**
+.. note::
+  **Important Updates!**
 
-..     1.16: *New docker and handout materials*
+  3.30: *Upload hands-on slide*: `hands-on.pdf <rsrc/hands-on.pdf>`_
 
-..     1.18: *Schedule of the tutorial*
-
-..     1.19: *Additional examples for generating hardware with LLM*
-
-..     1.20: *Upload slides* `(1) <rsrc/tutorial-t2.pdf>`_ `(2) <rsrc/Tutorial-upload.pptx>`_
-
-..     If you have any questions, especially about environment setup, please contact `Youwei Xiao (shallwe@pku.edu.cn) <mailto:shallwe@pku.edu.cn>`_. We will try our best to help you.
+  If you have any questions, especially about environment setup, please contact `Youwei Xiao (shallwe@pku.edu.cn) <mailto:shallwe@pku.edu.cn>`_. We will try our best to help you.
    
 
 Overview
@@ -56,7 +50,7 @@ The tutorial will be held at March 30, 2025 (9:00-12:30).
   * - 11:00am 
     - session
     - Xiaochen Hao, Youwei Xiao
-    - 
+    - `hands-on.pdf <rsrc/hands-on.pdf>`_
   * - 12:30pm
     - lunch
     -
